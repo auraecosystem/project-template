@@ -1,10 +1,8 @@
 # project template
 
-
-
 ```gfm
 # insert project logo - replace the below logo location with the location of your logo
-![](https://github.com/openmainframeproject/artwork/blob/master/projects/PROJECT NAME/PROJECT NAME-color.svg)
+![](https://github.com/openmainframeproject/artwork/blob/master/projects/PROJECT-TEMPLATE Auraecosystem/mkdn NAME-color.svg)
 ```
 
 ```gfm
